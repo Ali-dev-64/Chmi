@@ -1,2 +1,5 @@
 import webbrowser
-webbrowser.open("C:/Users/Ali/Chmi/main.html")
+
+x=input("Y")
+if x=="Y":
+        webbrowser.open("/Chmi_W/hello/main.html")
